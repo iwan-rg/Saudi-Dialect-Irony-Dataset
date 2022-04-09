@@ -1,5 +1,3 @@
-[![CC BY 4.0][cc-by-shield]][cc-by]
-
 
 # The Saudi Dialect Irony Dataset (Sa`7r ساخر)
 The Saudi irony dataset was collected using Twitter API and it consists of 19,810 tweets, 8,089 of them are labeled as ironic tweets
