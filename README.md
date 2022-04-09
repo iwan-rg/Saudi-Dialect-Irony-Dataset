@@ -7,7 +7,7 @@ In sentiment analysis, detecting irony is considered a major challenge. The key 
 
 ## File Specifications
 
-- **SaudiIrony.csv** https://github.com/iwan-rg/Saudi-Dialect-Irony-Dataset/blob/main/SaudiIrony.csv: File that contains tweets with two labels, "ironic" and "non-ironic"
+- [SaudiIrony.csv](https://github.com/iwan-rg/Saudi-Dialect-Irony-Dataset/blob/main/SaudiIrony.csv) : File that contains tweets with two labels, "ironic" and "non-ironic"
 
 ## Citation
 
