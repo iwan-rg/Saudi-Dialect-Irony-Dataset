@@ -14,11 +14,11 @@ In sentiment analysis, detecting irony is considered a major challenge. The key 
 If you use this dataset please cite as:
 
 ```bibtex
-@inproceedings{[author_first_name][year][abbr],
-  title={[paper title]},
-  author={[authors]},
-  booktitle={[venue]},
-  year={[year]}
+@inproceedings{[AlMazrua et al.][2022][abbr],
+  title={[Sa`7r: A Saudi Dialect Irony Dataset]},
+  author={[Halah AlMazrua, Najla AlHazzani, Amaal AlDawod, Lama AlAwlaqi, Noura AlReshoudi, Hend Al-Khalifa and Luluh AlDhubayi]},
+  booktitle={[The 5th Workshop on Open-Source Arabic Corpora and Processing Tools, LREC2022, Marseille, France]},
+  year={[2022]}
 }
 ```
 ## License
